@@ -6,7 +6,7 @@ const app=express();
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
-mongoose.connect("mongodb+srv://adityarajsingh:Adi-1234@cluster0-lpugz.mongodb.net/test?retryWrites=true/bitformDB",{useNewUrlParser:true});
+mongoose.connect("mongodb+srv://adityarajsingh:@cluster0-lpugz.mongodb.net/test?retryWrites=true/bitformDB",{useNewUrlParser:true});
 
 const personSchema = new mongoose.Schema({
     name: {
