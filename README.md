@@ -1,1 +1,2 @@
-# FilmMakingWrokshopBITForm
+# Film Making Wrokshop BIT
+Camera aficionados of BIT Mesra are eager to get hands-on with the finer art of film making. Vigyan Prasar, Government of India, in collaboration with the Photography Society, BIT Mesra will be conducting a special Science Film Making Workshop from 24th to 26th March, 2019. The workshop is a part of National Workshops of Science Film Making - a pan-India flagship event by Vigyan Prasar to attract professional as well as student filmmakers, researchers and scriptwriters to showcase and hone their talent.
